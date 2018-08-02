@@ -35,4 +35,3 @@ def input_to_index(input)
   input = input.i
   input -= input
 end
-  
