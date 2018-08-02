@@ -35,3 +35,12 @@ def input_to_index(input)
   input = input.i
   input -= input
 end
+
+def turn(board)
+  puts "Please enter 1-9:"
+end
+
+
+
+
+
